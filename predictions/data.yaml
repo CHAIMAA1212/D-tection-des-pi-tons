@@ -1,0 +1,4 @@
+train: data_images/train1
+val: data_images/test1
+nc: 3
+names: ['person','person-like','nonhuman']
